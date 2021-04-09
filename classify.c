@@ -15,3 +15,5 @@ void classification(int m[], int st[]) {
 	}
 	printf("%d marks are classified\n", i);
 }
+
+//this is added remotely
